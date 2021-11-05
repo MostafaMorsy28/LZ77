@@ -1,6 +1,0 @@
-<Position, Length, Next Character>
-<0, 0, q>
-<0, 0, w>
-<0, 0, r>
-<0, 0, e>
-<4, 3, q>
